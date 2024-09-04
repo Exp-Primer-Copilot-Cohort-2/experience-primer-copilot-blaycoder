@@ -1,5 +1,2 @@
-// Create a web server that listens on port 3000
-// When you navigate to localhost:3000/comments, the server should respond with a JSON object that looks like this:
-
-// [
-//
+// Create web server
+// Create a web server that listens on port 3000 and serves the comments.html file. Use the comments.html file from the previous exercise.
